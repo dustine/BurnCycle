@@ -4,7 +4,7 @@
   Notes:
   * Candidates for smelting are outdated techs without change for upgrading, and furnaces (because xkcd 1821)
     - This excludes stuff like heat pipes, which never become outclassed by a straight upgrade
-    - Stone furnaces are the biggest exception because you can craft a TON of them
+    - Stone furnaces are the biggest exception because you normally craft a TON of them
   * Tiered unlocking for when the recipe is relevant (game start, steel furnaces, electric furnaces)
   * For iron plates, the recipe is original plates + gears (2 in normal, 4 in expensive)
   * Copper/brick is usually discarted, usually because it's <= than the iron/steel in the recipe
