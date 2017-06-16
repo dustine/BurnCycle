@@ -4,7 +4,8 @@
     "title": "Burncycle - Recycle by Smelting",
     "author": "vanatteveldt, Dustine",
     "contact": "",
-    "homepage": "https://mods.factorio.com/mods/vanatteveldt/recycling",
+    "homepage": "https://forums.factorio.com/viewtopic.php?f=93&t=49848",
+    "repository": "https://github.com/dustine/BurnCycle",
     "description": "Adds smelting recipes to regain iron, steel and similars from outdated and non-upgradable items. Updated from vanatteveldt's original mod.",
     "factorio_version": "0.15",
     "dependencies": ["base >= 0.15.21", "? bobplates >= 0.15.0"]

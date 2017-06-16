@@ -12,7 +12,7 @@ Smelting recipes unlock when they're relevant (when the item becomes outdated).
 
 The mod prioritizes steel/iron over copper/brick for the smelting result, as those are usually the heaviest crafting investment into the crafted items. Oh, and any stone is cooked for you into bricks. Useful for higher tier furnaces!
 
-*Note: numbers between paranthesis correspond to costs on savegames with the Expensive recipes preset.*
+*Note: numbers between parenthesis correspond to costs on savegames with the Expensive recipes preset.*
 
 - **From the get-go**
   - 1 burner inserter → 3 iron plates *(5 iron plates)*
