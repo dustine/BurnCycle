@@ -1,1 +1,1 @@
-require("prototypes.recipes.recycle")
+require("prototypes.recipes")
