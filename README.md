@@ -21,6 +21,7 @@ The mod prioritizes steel/iron over copper/brick for the smelting result, as tho
 - **After researching Advanced Material Processing** [Steel furnaces]
   - **2** stone furnaces → 5 stone bricks
   - 1 iron chest → 8 iron plates
+  - 1 empty barrel → 1 steel plate
 - **After researching Advanced Mat. Processing 2** [Electric furnaces]
   - 1 shotgun → 25 iron plates *(35 iron plates)*
   - 1 steel furnace → 6 steel plates

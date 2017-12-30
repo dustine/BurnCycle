@@ -106,6 +106,17 @@ tier1 = tier1 + {
   hidden = true
 }
 
+tier1 = tier1 + {
+  type = "recipe",
+  name = "burncycle-barrel",
+  category = "smelting",
+  energy_required = 3.5,
+  ingredients = {{"empty-barrel", 1}},
+  results = {{type="item", name="steel-plate", amount=1}},
+  enabled = false,
+  hidden = true
+}
+
 -- Furnaces
 tier1 = tier1 + {
   type = "recipe",
